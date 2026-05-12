@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\تجربة VS\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\Dell\Desktop\تجربة VS\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\Dell\Desktop\تجربة VS\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\Dell\Desktop\تجربة VS\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\تجربة VS\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\تجربة VS\Library System\Library System\obj\Debug\Library System.exe
+C:\Users\Dell\Desktop\تجربة VS\Library System\Library System\obj\Debug\Library System.pdb
+C:\Users\Dell\Desktop\تجربة VS\Library System\Library System\obj\Debug\Library System.exe.config
